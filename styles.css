@@ -1,0 +1,13 @@
+body { background: lavenderblush;
+		font-family: 'Dancing Script', arial}
+
+h1 { font-size: 200%;
+	font-weight: bold;}
+	
+	
+	NAV LI { display: inline-block
+			border: 2px solid hotpink;
+			padding: 10px;
+			background: white;
+			MARGIN: 5PX;
+			width: 150px}
